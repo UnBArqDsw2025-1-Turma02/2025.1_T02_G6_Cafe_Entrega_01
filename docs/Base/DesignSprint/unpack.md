@@ -123,4 +123,4 @@ A última etapa desse ciclo inicial foi a criação de personas, personagens fic
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 09/04/2025  | Versão inicial do artefato. | [Diego Carlito](https://github.com/DiegoCarlito) |  |
+| `1.0` | 09/04/2025  | Versão inicial do artefato. | [Diego Carlito](https://github.com/DiegoCarlito) | [Marcos Castilhos](https://github.com/Marcosatc147) |
