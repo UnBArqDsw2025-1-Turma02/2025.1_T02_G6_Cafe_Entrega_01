@@ -1,12 +1,10 @@
-# G6_Cafe
+# ☕ Coffee Atlas
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 6<br>
 **Entrega**: 01<br>
 
 ## Alunos
-
-<center>
 
 |Matrícula | Aluno |
 | -- | -- |
@@ -20,8 +18,6 @@
 | 22/1008300  |  [Marcos Antonio Teles de Castilhos](https://github.com/Marcosatc147) |
 | 21/1062802  |  [Nicollas Gabriel Oliveira Sousa](https://github.com/Nicollaxs) |
 | 21/1031486  |  [Samuel Ribeiro Da Costa](https://github.com/Samuelricosta) |
-
-</center>
 
 ## Sobre 
 
@@ -45,6 +41,6 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor(es) |
-| :----: | :--: | :-------: | :-------: |
-| `1.0` | 08/04/2025 | Versão inicial do artefato. | [Diego Carlito](https://github.com/DiegoCarlito) |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :----: | :--: | :-------: | :-------: | :---------: |
+| `1.0` | 08/04/2025 | Versão inicial do artefato. | [Diego Carlito](https://github.com/DiegoCarlito) | |
