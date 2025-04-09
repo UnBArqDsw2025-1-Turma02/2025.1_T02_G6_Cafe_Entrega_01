@@ -6,8 +6,6 @@
     - [1.1. Design Sprint](/Base/DesingSprint/DesingSprint.md)
     - [1.2. Artefato Generalista](/Base/ArtefatoGeneralista/ArtefatoGeneralista.md)
       - [Brainstorming](/Base/ArtefatoGeneralista/Brainstorming.md)
-      - [Ferramentas](/Base/ArtefatoGeneralista/Ferramentas.md)
-      - [Resultado](/Base/ArtefatoGeneralista/Resultado.md)
     - [1.3. Modelagem BPMN](/Base/BPMN/BPMN.md)
     - [1.4. Participações - Base](/Base/Participacoes/Participacoes.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
