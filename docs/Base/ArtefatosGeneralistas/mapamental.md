@@ -31,4 +31,4 @@ Abaixo está o conteúdo do mapa mental estruturado para o Projeto G6 – Café 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 10/04/2025  | Versão inicial do artefato. | [Samuel Ribeiro](https://github.com/SamuelRicosta) | - |
+| `1.0` | 10/04/2025  | Versão inicial do artefato. | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Marcos Castilhos](https://github.com/Marcosatc147)|
