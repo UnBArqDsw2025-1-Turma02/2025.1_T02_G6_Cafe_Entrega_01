@@ -90,4 +90,4 @@ As figuras de 1 a 7 a seguir contém os Rich Pictures produzidos individualmente
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 10/04/2025  | Versão inicial do artefato. | [João](https://github.com/Joa0V) | - |
+| `1.0` | 10/04/2025  | Versão inicial do artefato. | [João](https://github.com/Joa0V) | [Diego Carlito](https://github.com/DiegoCarlito) |
