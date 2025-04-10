@@ -1,0 +1,34 @@
+# Projeto G6 – Café e Cia
+
+## Introdução
+
+Um mapa mental é uma ferramenta visual poderosa para organizar informações de maneira hierárquica e intuitiva. Ele permite visualizar rapidamente as conexões entre ideias, facilitando o planejamento, a análise e a memorização dos principais pontos de um projeto.
+
+No caso do **Projeto G6 – Café e Cia**, o mapa mental foi fundamental para dar forma às ideias do grupo e estruturar o escopo do webApp voltado à comunidade apaixonada por café. A construção do mapa possibilitou visualizar, de forma clara, os elementos essenciais para o desenvolvimento da aplicação.
+
+## Metodologia
+
+A criação do mapa mental teve início em uma reunião de brainstorming entre os integrantes do grupo. As ideias surgidas foram discutidas, refinadas e estruturadas colaborativamente. O processo foi conduzido com base em perguntas norteadoras como:
+
+- Quais funcionalidades são indispensáveis?
+- O que os usuários esperam encontrar?
+- Como podemos agregar valor à comunidade de café?
+
+O mapa foi desenhado utilizando o aplicativo Whiteboard, permitindo uma visualização clara e colaborativa dos tópicos definidos.
+
+## Mapa Mental
+
+Abaixo está o conteúdo do mapa mental estruturado para o Projeto G6 – Café e Cia:
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVIEZpw-E=/?moveToViewport=-1961,-1167,4259,2052&embedId=23891266800" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+## Referências Bibliográficas
+
+- **SERRANO, Milene.** *VideoAula - DSW-Base - Mapa Mental*. Acesso em: 28 de outubro de 2024.
+- **Canal SejaUmaPessoaMelhor.** *Como fazer um MAPA MENTAL Passo a Passo*. Disponível em: [YouTube](https://www.youtube.com/watch?v=m1qW0wPJV1M). Acesso em: 31 de outubro de 2024.
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 10/04/2025  | Versão inicial do artefato. | [Samuel Ribeiro](https://github.com/SamuelRicosta) | - |
