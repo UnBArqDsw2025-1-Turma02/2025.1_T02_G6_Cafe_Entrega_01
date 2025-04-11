@@ -22,4 +22,4 @@ Ao concluir a Prototipação, a equipe terá um modelo funcional que servirá de
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 11/04/2024  | Versão inicial do artefato. | [Filipe Carvalho](https://github.com/filipe-002) |03/11/2024  | [Bianca Castro](https://github.com/BiancaPatrocinio7) |
+| `1.0` | 11/04/2024  | Versão inicial do artefato. | [Filipe Carvalho](https://github.com/filipe-002) |03/11/2024  | [Diego Carlito](https://github.com/DiegoCarlito) |
