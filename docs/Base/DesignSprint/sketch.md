@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Após a etapa do Design Sprint voltada para o entendimento do problema, avançamos para a fase de Sketch, cujo foco é explorar possíveis soluções com base em tudo que foi discutido anteriormente. O objetivo aqui é transformar as ideias ainda abstratas em representações visuais que possam ser compreendidas e analisadas por todos de forma igualitária. Para isso, cada integrante do grupo teve a oportunidade de expressar sua visão individual por meio dos Rich Pictures — desenhos que traduzem, da forma mais completa possível, suas propostas de solução dentro do escopo definido. 
+Após as etapa do Design Sprint voltadas para o entendimento e definição do problema, avançamos para a fase de Sketch, cujo foco é explorar possíveis soluções com base em tudo que foi discutido anteriormente. O objetivo aqui é transformar as ideias ainda abstratas em representações visuais que possam ser compreendidas e analisadas por todos de forma igualitária. Para isso, cada integrante do grupo teve a oportunidade de expressar sua visão individual por meio dos Rich Pictures — desenhos que traduzem, da forma mais completa possível, suas propostas de solução dentro do escopo definido. 
 
 Essa abordagem que permite a utilização desde papel e caneta a ferramentas gráficas estimula a participação de todos, inclusive daqueles que não possuem habilidades em desenho. Especialmente com o apoio de um mediador que garante o engajamento coletivo, esse momento é fundamental para o seguimento do Design Sprint, pois estimula o compartilhamento e a discussão que resultam na concepção de soluções inovadoras.
 
 ## Rich Pictures
 
-As figuras de 1 a 7 a seguir contém os Rich Pictures produzidos individualmente pelos integrantes do grupo.
+As figuras de 1 a 8 a seguir contém os Rich Pictures produzidos individualmente pelos integrantes do grupo.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Figura 1:</b>  Rich Picture - João </p></font>
@@ -78,6 +78,18 @@ As figuras de 1 a 7 a seguir contém os Rich Pictures produzidos individualmente
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Geovane](https://github.com/GeovaneSFT), 2025</p></font>
+</center>
+
+<center>
+<font size="3"><p style="text-align: center"><b>Figura 8:</b>  Rich Picture - Samuel </p></font>
+
+
+<div style="text-align: center;">
+    <img src="./Base/Assets/design_sprint/sketch/rp_samuel.png"  width="1000px">
+</div>
+
+
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Samuel Ribeiro](https://github.com/SamuelRicosta), 2025</p></font>
 </center>
 
 ## Bibliografia
