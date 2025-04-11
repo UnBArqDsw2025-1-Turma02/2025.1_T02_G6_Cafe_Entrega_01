@@ -13,7 +13,7 @@
       - [1.2.2. Rich Picture](/Base/ArtefatosGeneralistas/1.2.2.RichPicture.md)
       - [1.2.2. 5W2H](/Base/ArtefatosGeneralistas/1.2.3.5W2H.md)
       - [1.2.2. Causa Efeito](/Base/ArtefatosGeneralistas/CausaEfeito.md)
-      - [1.2.3. Mapa Mental](/Base/ArtefatosGeneralistas/mapamental.md)
+      - [1.2.3. Mapa Mental](/Base/ArtefatosGeneralistas/1.2.7.MapaMental.md)
     - [1.3. Modelagem BPMN](/Base/BPMN/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/Participacoes/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras](/Base/IniciativasExtras/1.5.IniciativasExtras.md)
