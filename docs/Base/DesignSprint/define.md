@@ -32,4 +32,4 @@ A figura a seguir mostra o resultado da dinâmica.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 11/04/2025  | Versão inicial do artefato. | [João](https://github.com/Joa0V) | - |
+| `1.0` | 11/04/2025  | Versão inicial do artefato. | [João](https://github.com/Joa0V) | [Diego Carlito](https://github.com/DiegoCarlito) |
