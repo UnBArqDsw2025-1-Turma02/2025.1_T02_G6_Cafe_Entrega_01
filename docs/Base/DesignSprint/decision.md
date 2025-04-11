@@ -122,6 +122,6 @@ A versão final, resultado da etapa Decision, servirá como uma importante refer
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 11/04/2025  | Versão inicial do artefato. | [Diego Carlito](https://github.com/DiegoCarlito) | |
+| `1.0` | 11/04/2025  | Versão inicial do artefato. | [Diego Carlito](https://github.com/DiegoCarlito) |[Toda a equipe]()|
 | `1.1` | 11/04/2025  | Adiciona storyboards. | [Diego Carlito](https://github.com/DiegoCarlito) | [Marcos Castilhos](https://github.com/Marcosatc147) |
-| `1.2` | 11/04/2025  | Ajustando o documento e adicionando conteúdo. | [Genilson Junior](https://github.com/GenilsonJrs) | |
+| `1.2` | 11/04/2025  | Ajustando o documento e adicionando conteúdo. | [Genilson Junior](https://github.com/GenilsonJrs) | [Toda a equipe]()|
