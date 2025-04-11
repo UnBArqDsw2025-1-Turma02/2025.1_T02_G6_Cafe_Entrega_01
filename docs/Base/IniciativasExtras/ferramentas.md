@@ -42,4 +42,4 @@ Nesta seção, destacamos as ferramentas escolhidas pelo grupo para impulsionar 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 10/04/2025  | Versão inicial do artefato. | [Samuel Ribeiro](https://github.com/SamuelRicosta)| |
+| `1.0` | 10/04/2025  | Versão inicial do artefato. | [Samuel Ribeiro](https://github.com/SamuelRicosta)| [Diego Carlito](https://github.com/DiegoCarlito) |
