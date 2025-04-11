@@ -101,4 +101,4 @@ Os storyboards a seguir representam sequências visuais das jornadas dos usuári
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 11/04/2025  | Versão inicial do artefato. | [Diego Carlito](https://github.com/DiegoCarlito) | |
-| `1.1` | 11/04/2025  | Adiciona storyboards. | [Diego Carlito](https://github.com/DiegoCarlito) | |
+| `1.1` | 11/04/2025  | Adiciona storyboards. | [Diego Carlito](https://github.com/DiegoCarlito) | [Marcos Castilhos](https://github.com/Marcosatc147) |
