@@ -287,5 +287,5 @@ A seguir, algumas das sugestões recebidas:
 | `1.0` | 09/04/2025  | Versão inicial do artefato. | [Diego Carlito](https://github.com/DiegoCarlito) | [Marcos Castilhos](https://github.com/Marcosatc147) |
 | `1.1` | 10/04/2025  | Adiciona resultados dos questionários. | [Diego Carlito](https://github.com/DiegoCarlito) | [Marcos Castilhos](https://github.com/Marcosatc147)  |
 | `1.2` | 10/04/2025  | Adiciona tabela dos requisitos elicitados. | [Diego Carlito](https://github.com/DiegoCarlito) | [Marcos Castilhos](https://github.com/Marcosatc147)  |
-| `1.3` | 11/04/2025  | Adiciona tabela dos requisitos não funcionais elicitados. | [Marcos Castilhos](https://github.com/Marcosatc147)  |  |
+| `1.3` | 11/04/2025  | Adiciona tabela dos requisitos não funcionais elicitados. | [Marcos Castilhos](https://github.com/Marcosatc147)  |[Toda a equipe]()  |
 | `1.4` | 11/04/2025  | Versão final do artefato. | [Toda a equipe]()| [Toda a equipe]() |
