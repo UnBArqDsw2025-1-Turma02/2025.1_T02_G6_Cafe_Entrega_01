@@ -134,7 +134,7 @@ A seguir, apresentam-se os resultados obtidos por meio das respostas ao question
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5815Z9nlSr27hy5Tu1JgvmZ5eQLffZ-Mo46qrARYm7M_T78BeLNSAajeaseOOVHRe6E3PHK-WXtQE/pubchart?oid=349167827&amp;format=interactive"></iframe>
 </div>
 <div>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a></font></p>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a>, 2025</font></p>
 </div>
 </center>
 
@@ -146,7 +146,7 @@ A seguir, apresentam-se os resultados obtidos por meio das respostas ao question
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5815Z9nlSr27hy5Tu1JgvmZ5eQLffZ-Mo46qrARYm7M_T78BeLNSAajeaseOOVHRe6E3PHK-WXtQE/pubchart?oid=671604431&amp;format=interactive"></iframe>
 </div>
 <div>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a></font></p>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a>, 2025</font></p>
 </div>
 </center>
 
@@ -157,7 +157,7 @@ A seguir, apresentam-se os resultados obtidos por meio das respostas ao question
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5815Z9nlSr27hy5Tu1JgvmZ5eQLffZ-Mo46qrARYm7M_T78BeLNSAajeaseOOVHRe6E3PHK-WXtQE/pubchart?oid=1952597202&amp;format=interactive"></iframe>
 </div>
 <div>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a></font></p>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a>, 2025</font></p>
 </div>
 </center>
 
@@ -168,7 +168,7 @@ A seguir, apresentam-se os resultados obtidos por meio das respostas ao question
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5815Z9nlSr27hy5Tu1JgvmZ5eQLffZ-Mo46qrARYm7M_T78BeLNSAajeaseOOVHRe6E3PHK-WXtQE/pubchart?oid=758466637&amp;format=interactive"></iframe>
 </div>
 <div>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a></font></p>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a>, 2025</font></p>
 </div>
 </center>
 
@@ -179,7 +179,7 @@ A seguir, apresentam-se os resultados obtidos por meio das respostas ao question
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5815Z9nlSr27hy5Tu1JgvmZ5eQLffZ-Mo46qrARYm7M_T78BeLNSAajeaseOOVHRe6E3PHK-WXtQE/pubchart?oid=457117736&amp;format=interactive"></iframe>
 </div>
 <div>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a></font></p>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a>, 2025</font></p>
 </div>
 </center>
 
@@ -190,7 +190,7 @@ A seguir, apresentam-se os resultados obtidos por meio das respostas ao question
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5815Z9nlSr27hy5Tu1JgvmZ5eQLffZ-Mo46qrARYm7M_T78BeLNSAajeaseOOVHRe6E3PHK-WXtQE/pubchart?oid=400867155&amp;format=interactive"></iframe>
 </div>
 <div>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a></font></p>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a>, 2025</font></p>
 </div>
 </center>
 
@@ -201,7 +201,7 @@ A seguir, apresentam-se os resultados obtidos por meio das respostas ao question
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5815Z9nlSr27hy5Tu1JgvmZ5eQLffZ-Mo46qrARYm7M_T78BeLNSAajeaseOOVHRe6E3PHK-WXtQE/pubchart?oid=1542779582&amp;format=interactive"></iframe>
 </div>
 <div>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a></font></p>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a>, 2025</font></p>
 </div>
 </center>
 
@@ -212,7 +212,7 @@ A seguir, apresentam-se os resultados obtidos por meio das respostas ao question
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5815Z9nlSr27hy5Tu1JgvmZ5eQLffZ-Mo46qrARYm7M_T78BeLNSAajeaseOOVHRe6E3PHK-WXtQE/pubchart?oid=2141128993&amp;format=interactive"></iframe>
 </div>
 <div>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a></font></p>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Filipe-002">Filipe Carvalho</a> e <a href="https://www.github.com/DiegoCarlito">Diego Carlito</a>, 2025</font></p>
 </div>
 </center>
 
@@ -227,6 +227,40 @@ A seguir, algumas das sugestões recebidas:
 - "Review dos grãos e marcas em geral."
 - "Dicas sobre quantidade ideal do consumo de café para que não prejudique a saúde e o bem estar do usuário."
 ```
+
+## Requisitos Elicitados
+
+<center>
+
+|ID|Requisito                                                               |
+|----|----------------------------------------------------------------------|
+|RF01|Permitir cadastro com nome, e-mail e senha                            |
+|RF02|Validar se o e-mail já está cadastrado                                |
+|RF03|Enviar confirmação de cadastro por e-mail                             |
+|RF04|Permitir login com e-mail e senha                                     |
+|RF05|Informar erro se e-mail ou senha estiverem incorretos                 |
+|RF06|Manter sessão ativa após login                                        |
+|RF07|Permitir criação de tópicos no fórum por usuários autenticados        |
+|RF08|Permitir comentários em tópicos do fórum                              |
+|RF09|Listar tópicos mais recentes e mais comentados                        |
+|RF10|Permitir que o autor edite ou exclua seus próprios tópicos            |
+|RF11|Listar notícias em ordem cronológica                                  |
+|RF12|Exibir título, subtítulo, autor, data e conteúdo de cada notícia      |
+|RF13|Exibir notícia completa ao clicar                                     |
+|RF14|Permitir compartilhamento de notícias via link                        |
+|RF15|Exibir lista paginada de tópicos do fórum                             |
+|RF16|Permitir filtro de tópicos por categoria                              |
+|RF17|Permitir busca por palavras-chave nos tópicos                         |
+|RF18|Permitir avaliação de cafeterias com nota e comentário                |
+|RF19|Exibir média das avaliações e comentários                             |
+|RF20|Exibir autor, data e nota nas avaliações                              |
+|RF21|Permitir ordenação de avaliações por mais recentes ou melhor avaliadas|
+
+<div>
+<font size="3"><p style="text-align: center"><b>Autor:</b><a href="https://www.github.com/DiegoCarlito">Diego Carlito</a>, 2025</font></p>
+</div>
+
+</center>
 
 ## Bibliografia
 
@@ -243,3 +277,4 @@ A seguir, algumas das sugestões recebidas:
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/04/2025  | Versão inicial do artefato. | [Diego Carlito](https://github.com/DiegoCarlito) | [Marcos Castilhos](https://github.com/Marcosatc147) |
 | `1.1` | 10/04/2025  | Adiciona resultados dos questionários. | [Diego Carlito](https://github.com/DiegoCarlito) |  |
+| `1.2` | 10/04/2025  | Adiciona tabela dos requisitos elicitados. | [Diego Carlito](https://github.com/DiegoCarlito) |  |
