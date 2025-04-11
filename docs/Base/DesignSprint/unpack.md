@@ -228,7 +228,7 @@ A seguir, algumas das sugestões recebidas:
 - "Dicas sobre quantidade ideal do consumo de café para que não prejudique a saúde e o bem estar do usuário."
 ```
 
-## Requisitos Elicitados
+## Requisitos Funcionais Elicitados
 
 <center>
 
@@ -240,7 +240,7 @@ A seguir, algumas das sugestões recebidas:
 |RF04|Permitir login com e-mail e senha                                     |
 |RF05|Informar erro se e-mail ou senha estiverem incorretos                 |
 |RF06|Manter sessão ativa após login                                        |
-|RF07|Permitir criação de tópicos no fórum por usuários autenticados        |
+|RF07|Permitir criação de tópicos no fórum apenas por usuários autenticados |
 |RF08|Permitir comentários em tópicos do fórum                              |
 |RF09|Listar tópicos mais recentes e mais comentados                        |
 |RF10|Permitir que o autor edite ou exclua seus próprios tópicos            |
@@ -251,13 +251,22 @@ A seguir, algumas das sugestões recebidas:
 |RF15|Exibir lista paginada de tópicos do fórum                             |
 |RF16|Permitir filtro de tópicos por categoria                              |
 |RF17|Permitir busca por palavras-chave nos tópicos                         |
-|RF18|Permitir avaliação de cafeterias com nota e comentário                |
+|RF18|Permitir avaliação de cafeterias com nota e comentário apenas por usuários autenticados|
 |RF19|Exibir média das avaliações e comentários                             |
 |RF20|Exibir autor, data e nota nas avaliações                              |
 |RF21|Permitir ordenação de avaliações por mais recentes ou melhor avaliadas|
 
+## Requisitos Não-Funcionais Elicitados
+|ID|Requisito                                                               |
+|----|----------------------------------------------------------------------|
+|RN01|Permitir ao usuário adicionar uma foto de perfil|
+|RN02|A interface deve ser responsiva e adaptável a dispositivos móveis e desktops|
+|RN03|A navegação no site deve ser intuitiva, com menus e ícones autoexplicativos|
+|RN04|O sistema deve disponibilizar mensagens de erro claras e objetivas em caso de falhas (ex: login, cadastro, busca)|
+|RN05|As páginas do fórum e de notícias devem apresentar tempo médio de carregamento inferior a 2 segundos|
+
 <div>
-<font size="3"><p style="text-align: center"><b>Autor:</b><a href="https://www.github.com/DiegoCarlito">Diego Carlito</a>, 2025</font></p>
+<font size="3"><p style="text-align: center"><b>Autores:</b><a href="https://www.github.com/DiegoCarlito">Diego Carlito</a> e <a href="https://www.github.com/Marcosatc147">Marcos Castilhos</a>, 2025</font></p>
 </div>
 
 </center>
@@ -276,5 +285,7 @@ A seguir, algumas das sugestões recebidas:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 09/04/2025  | Versão inicial do artefato. | [Diego Carlito](https://github.com/DiegoCarlito) | [Marcos Castilhos](https://github.com/Marcosatc147) |
-| `1.1` | 10/04/2025  | Adiciona resultados dos questionários. | [Diego Carlito](https://github.com/DiegoCarlito) |  |
-| `1.2` | 10/04/2025  | Adiciona tabela dos requisitos elicitados. | [Diego Carlito](https://github.com/DiegoCarlito) |  |
+| `1.1` | 10/04/2025  | Adiciona resultados dos questionários. | [Diego Carlito](https://github.com/DiegoCarlito) | [Marcos Castilhos](https://github.com/Marcosatc147)  |
+| `1.2` | 10/04/2025  | Adiciona tabela dos requisitos elicitados. | [Diego Carlito](https://github.com/DiegoCarlito) | [Marcos Castilhos](https://github.com/Marcosatc147)  |
+| `1.3` | 11/04/2025  | Adiciona tabela dos requisitos não funcionais elicitados. | [Marcos Castilhos](https://github.com/Marcosatc147)  |  |
+
