@@ -1,4 +1,4 @@
-# Informações Básicas
+## Informações Básicas
 
 - **Data:** 07 de Abril
 - **Hora de Início:** 19:26
@@ -6,6 +6,7 @@
 - **Local:** Plataforma de Comunicação - Teams
 - **Participantes:**
 
+  - [✓] [Diego Carlito](https://github.com/DiegoCarlito)
   - [✓] [Guilherme Coelho](https://github.com/Guilermanoo)
   - [✓] [Gustavo Alves](https://github.com/gustaallves)
   - [✓] [João Vitor](https://github.com/Joa0v)
@@ -13,7 +14,7 @@
   - [✓] [Nicollas Gabriel](https://github.com/Nicollaxs)
   - [✓] [Samuel Ribeiro](https://github.com/SamuelRicosta)
 
-# Gravação
+## Gravação
 
 A segunda reunião, iniciada logo após a primeira por conta da discponibilidade e adiantamentos, onde foi discutido, dividido e trabalhado pontos da disciplina, disponível no Vídeo 1.
 
@@ -25,20 +26,20 @@ A segunda reunião, iniciada logo após a primeira por conta da discponibilidade
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Toda a equipe](), 2025</p></font>
 
-# Discussões
+## Discussões
 
 - Elicitação dos Requisitos.
 - Objetivo do Projeto: Desenvolver uma plataforma voltada para a comunidade de café, permitindo compartilhamento de métodos, dicas e avaliações.
 - Perfis de Usuários: Identificação dos principais usuários-alvo, como consumidores iniciantes, baristas, produtores e entusiastas.
 - Design da Interface: Discussão sobre a importância de uma interface intuitiva e amigável para todos os perfis de usuários.
 
-# Decisões
+## Decisões
 
 - Realização em conjunto do Brainstorm(5W2H).
 - Próximos Passos: Dividir tarefas entre os membros da equipe para o desenvolvimento dos documentos.
 
-# Histórico de Versões
+## Histórico de Versão
 
-|Data|Versão|Descrição|Autor(es)|Revisor(es)|Observações|
-|----|------|----------|----------|------------|------------|
-|10/04/25|1.0|Criação do documento e conteúdo|[Genilson Junior](https://github.com/GenilsonJrs)| | |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
+|`1.0`|10/04/25|Criação do documento e conteúdo|[Genilson Junior](https://github.com/GenilsonJrs)| [Diego Carlito](https://github.com/DiegoCarlito) |
