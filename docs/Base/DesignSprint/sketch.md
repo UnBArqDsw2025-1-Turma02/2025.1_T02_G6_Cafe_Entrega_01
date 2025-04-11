@@ -81,7 +81,7 @@ As figuras de 1 a 8 a seguir contém os Rich Pictures produzidos individualmente
 </center>
 
 <center>
-<font size="3"><p style="text-align: center"><b>Figura 7:</b>  Rich Picture - Samuel </p></font>
+<font size="3"><p style="text-align: center"><b>Figura 8:</b>  Rich Picture - Samuel </p></font>
 
 
 <div style="text-align: center;">
