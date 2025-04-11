@@ -85,7 +85,7 @@ As figuras de 1 a 8 a seguir contém os Rich Pictures produzidos individualmente
 
 
 <div style="text-align: center;">
-    <img src="./Base/Assets/design_sprint/sketch/rp_samuel.PNG"  width="1000px">
+    <img src="./Base/Assets/design_sprint/sketch/rp_samuel.png"  width="1000px">
 </div>
 
 
