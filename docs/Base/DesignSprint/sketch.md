@@ -8,7 +8,7 @@ Essa abordagem que permite a utilização desde papel e caneta a ferramentas gr�
 
 ## Rich Pictures
 
-As figuras de 1 a 7 a seguir contém os Rich Pictures produzidos individualmente pelos integrantes do grupo.
+As figuras de 1 a 8 a seguir contém os Rich Pictures produzidos individualmente pelos integrantes do grupo.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Figura 1:</b>  Rich Picture - João </p></font>
@@ -78,6 +78,18 @@ As figuras de 1 a 7 a seguir contém os Rich Pictures produzidos individualmente
 </div>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [Geovane](https://github.com/GeovaneSFT), 2025</p></font>
+</center>
+
+<center>
+<font size="3"><p style="text-align: center"><b>Figura 7:</b>  Rich Picture - Samuel </p></font>
+
+
+<div style="text-align: center;">
+    <img src="./Base/Assets/design_sprint/sketch/rp_samuel.PNG"  width="1000px">
+</div>
+
+
+<font size="3"><p style="text-align: center"><b>Autor:</b>  [Samuel Ribeiro](https://github.com/SamuelRicosta), 2025</p></font>
 </center>
 
 ## Bibliografia
