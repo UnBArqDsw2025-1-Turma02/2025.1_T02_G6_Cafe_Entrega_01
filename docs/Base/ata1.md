@@ -1,3 +1,5 @@
+# Ata 1
+
 ## Informações Básicas
 
 - **Data:** 07 de Abril
@@ -42,4 +44,4 @@ A primeira reunião, onde foi discutido, dividido e trabalhado pontos da discipl
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-|`1.0`|10/04/25|Criação do documento e conteúdo|[Genilson Junior](https://github.com/GenilsonJrs)| [Diego Carlito](https://github.com/DiegoCarlito) |
+|`1.0`|10/04/25|Versão inicial do artefato. |[Genilson Junior](https://github.com/GenilsonJrs)| [Diego Carlito](https://github.com/DiegoCarlito) |
