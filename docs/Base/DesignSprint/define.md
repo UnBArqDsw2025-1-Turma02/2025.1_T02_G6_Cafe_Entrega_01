@@ -39,4 +39,4 @@ Durante essa etapa, definimos os perfis de usuários mais relevantes para o sist
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 11/04/2025  | Versão inicial do artefato. | [João](https://github.com/Joa0V) | [Diego Carlito](https://github.com/DiegoCarlito) |
-| `1.1` | 11/04/2025  | Conclusão da etapa. | [Genilson Junior](https://github.com/GenilsonJrs) | |
+| `1.1` | 11/04/2025  | Conclusão da etapa. | [Genilson Junior](https://github.com/GenilsonJrs) | [Gustavo Alves](https://github.com/gustaallves)|
