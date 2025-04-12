@@ -20,6 +20,12 @@ A figura a seguir mostra o resultado da dinâmica.
 <font size="3"><p style="text-align: center"><b>Autor:</b>  [João](https://github.com/Joa0V), 2025</p></font>
 </center>
 
+## Conclusão
+
+A fase Define foi fundamental para o alinhamento da equipe em relação ao propósito central do projeto. Através da análise de informações levantadas na etapa anterior e da discussão coletiva entre os membros do grupo, foi possível delimitar com clareza os principais problemas enfrentados pelos usuários que desejam se conectar ao universo do café de forma prática, informativa e personalizada.
+
+Durante essa etapa, definimos os perfis de usuários mais relevantes para o sistema, como consumidores iniciantes, baristas, produtores e entusiastas do café. Além disso, construímos uma declaração clara de problema e traçamos metas que guiarão o desenvolvimento da solução. Essa estrutura servirá como base sólida para as próximas fases do projeto, garantindo que as ideias geradas e os protótipos construídos estejam alinhados com as reais necessidades do público-alvo.
+
 ## Bibliografia
 
 > GOOGLE. Design Sprint Kit: Overview. Disponível em: https://designsprintkit.withgoogle.com/methodology/overview.
@@ -33,3 +39,4 @@ A figura a seguir mostra o resultado da dinâmica.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 11/04/2025  | Versão inicial do artefato. | [João](https://github.com/Joa0V) | [Diego Carlito](https://github.com/DiegoCarlito) |
+| `1.1` | 11/04/2025  | Conclusão da etapa. | [Genilson Junior](https://github.com/GenilsonJrs) | [Gustavo Alves](https://github.com/gustaallves)|
