@@ -16,7 +16,7 @@ Ao concluir a Prototipação, a equipe terá um modelo funcional que servirá de
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Gm0ax0DUSvkrDZgpjFxDvc/CoffeeAtlas?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Autores:</b>  [Filipe Carvalho](https://github.com/filipe-002), [Geovane Freitas](https://github.com/GeovaneSFT), [DiegoCarlito](https://github.com/DiegoCarlito) e [Marcos Castilhos](https://github.com/Marcosatc147), 2025</p></font>
+<font size="3"><p style="text-align: center"><b>Autores:</b>  [Filipe Carvalho](https://github.com/filipe-002), [Geovane Freitas](https://github.com/GeovaneSFT), [Diego Carlito](https://github.com/DiegoCarlito) e [Marcos Castilhos](https://github.com/Marcosatc147), 2025</p></font>
 
 
 ## Histórico de Versão
