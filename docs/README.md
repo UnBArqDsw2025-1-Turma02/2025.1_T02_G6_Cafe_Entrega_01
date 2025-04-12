@@ -70,8 +70,6 @@ Abaixo, as figuras de partes do projeto geral.
 
 (✓) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
 ## Informações Complementares
 
 Além da definição do problema e da confecção dos artefatos, também foi importante observar a valorização de experiências colaborativas. O interesse e colaboração influenciaram diretamente a construção do escopo e de todo o projeto, reforçando a intenção e importancia de criar um ambiente de trabalho de parceria, promovendo troca de experiências e conexão entre pessoas com o mesmo interesse.
